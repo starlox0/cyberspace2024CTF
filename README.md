@@ -1,2 +1,2 @@
 # cyberspace2024CTF
-CTF Dolutions
+CTF Solutions
